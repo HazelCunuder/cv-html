@@ -1,0 +1,15 @@
+/* Team */
+    Lead: Hazel Cunuder
+    Contact: basile.c [at] gmail.com
+    From: Lille, Hauts-de-France, France
+
+/* Thanks */
+
+    Teacher: Cyril Marcq
+    
+    Teacher: Hachemi
+
+/* Site */
+    Last update: 26/03/2025
+    Language: English
+    Doctype: HTML5 
