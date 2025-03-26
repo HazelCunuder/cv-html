@@ -4,7 +4,7 @@ In this brief, we were instructed to create a cv while using **ONLY** HTML, this
 
 ## 🚀 Features
 
-- [Lien vers le CV fictif](cv.html)
+- [Link to the CV](/cv.html/cv.html)
 
 ## 🛠️ Contributing
 
